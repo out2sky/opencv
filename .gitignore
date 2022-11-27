@@ -163,3 +163,7 @@ cython_debug/
 Footer
 © 2022 GitHub, Inc.
 .vscode/settings.json
+
+
+*.mp4
+*.jpg
